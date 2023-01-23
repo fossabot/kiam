@@ -1,6 +1,7 @@
 # kiam
 
 [![Docker Repository on Quay](https://quay.io/repository/uswitch/kiam/status "Docker Repository on Quay")](https://quay.io/repository/uswitch/kiam)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fkiam.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fleonkuperman%2Fkiam?ref=badge_shield)
 
 ## 🚨 ⚠️THIS PROJECT IS IN MAINTENANCE MODE ⚠️ 🚨
 
@@ -165,6 +166,9 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fkiam.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fleonkuperman%2Fkiam?ref=badge_large)
 
 ## Thanks to Kube2iam
 We owe a **huge** thanks to the creators and maintainers of [Kube2iam](https://github.com/jtblin/kube2iam) which we ran for many months as we were bootstrapping our clusters.
